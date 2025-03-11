@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "tracking",
+    "slug": "tracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.zynova.tracking"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "zynova",
+    "extra": {
+      "eas": {
+        "projectId": "7338a22c-d12c-4041-9d19-950077183989"
+      }
+    }
+  }
+}
